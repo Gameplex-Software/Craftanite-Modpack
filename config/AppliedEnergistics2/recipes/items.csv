@@ -900,6 +900,30 @@ AgriCraft:cropDaisy, Daisy
 AgriCraft:cropCactus, Cactus
 AgriCraft:cropShroomRed, Red Mushroom
 AgriCraft:cropShroomBrown, Brown Mushroom
+ArchimedesShips:marker, Ship's Helm
+ArchimedesShips:floater, Floater
+ArchimedesShips:balloon:0, Air Balloon
+ArchimedesShips:balloon:1, Orange Air Balloon
+ArchimedesShips:balloon:2, Magenta Air Balloon
+ArchimedesShips:balloon:3, tile.archimedes.balloon.lightBlue.name
+ArchimedesShips:balloon:4, Yellow Air Balloon
+ArchimedesShips:balloon:5, Lime Air Balloon
+ArchimedesShips:balloon:6, Pink Air Balloon
+ArchimedesShips:balloon:7, Gray Air Balloon
+ArchimedesShips:balloon:8, Silver Air Balloon
+ArchimedesShips:balloon:9, Cyan Air Balloon
+ArchimedesShips:balloon:10, Purple Air Balloon
+ArchimedesShips:balloon:11, Blue Air Balloon
+ArchimedesShips:balloon:12, Brown Air Balloon
+ArchimedesShips:balloon:13, Green Air Balloon
+ArchimedesShips:balloon:14, Red Air Balloon
+ArchimedesShips:balloon:15, Black Air Balloon
+ArchimedesShips:gauge:0, Measurement Gauges
+ArchimedesShips:gauge:1, Measurement Gauges
+ArchimedesShips:seat, Passenger Seat
+ArchimedesShips:buffer, Shore Buffer
+ArchimedesShips:engine, Steam Engine
+ArchimedesShips:crate_wood, Wooden Crate
 BiblioCraft:tile.BiblioFramedChest:0, Framed Chest
 BiblioCraft:BiblioPaneler:0, Oak Furniture Paneler
 BiblioCraft:BiblioPaneler:1, Spruce Furniture Paneler
@@ -4384,7 +4408,7 @@ EnderTech:healthPad:1, Redstone Health Pad
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quadratic Equation Device)
+ExtraUtilities:endConstructor:0, QED (Quite Expensive Decoration)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -4753,38 +4777,38 @@ ExtraUtilities:etherealglass:2, Dark Ethereal Glass
 ExtraUtilities:etherealglass:3, Ethereal Glass (Inverted)
 ExtraUtilities:etherealglass:4, Ineffable Glass (Inverted)
 ExtraUtilities:etherealglass:5, Dark Ethereal Glass (Inverted)
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:forcefield, Forcefield
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:funnel, Essentia Funnel
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
 ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
 ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
 ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:funnel, Essentia Funnel
 ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -5948,14 +5972,6 @@ harvestcraft:pamgingerCrop, Ginger Crop
 harvestcraft:pamspiceleafCrop, Spice Leaf Crop
 harvestcraft:pamtealeafCrop, Tea Leaf Crop
 harvestcraft:pamcoffeebeanCrop, Coffee Bean Crop
-harvestcraft:pammustardseedsCrop, Mustard Seeds Crop
-harvestcraft:pambroccoliCrop, Broccoli Crop
-harvestcraft:pamcauliflowerCrop, Cauliflower Crop
-harvestcraft:pamleekCrop, Leek Crop
-harvestcraft:pamlettuceCrop, Lettuce Crop
-harvestcraft:pamscallionCrop, Scallion Crop
-harvestcraft:pamartichokeCrop, Artichoke Crop
-harvestcraft:pambrusselsproutCrop, Brussel Sprout Crop
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -5968,6 +5984,14 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
+harvestcraft:pammustardseedsCrop, Mustard Seeds Crop
+harvestcraft:pambroccoliCrop, Broccoli Crop
+harvestcraft:pamcauliflowerCrop, Cauliflower Crop
+harvestcraft:pamleekCrop, Leek Crop
+harvestcraft:pamlettuceCrop, Lettuce Crop
+harvestcraft:pamscallionCrop, Scallion Crop
+harvestcraft:pamartichokeCrop, Artichoke Crop
+harvestcraft:pambrusselsproutCrop, Brussel Sprout Crop
 harvestcraft:pamcabbageCrop, Cabbage Crop
 harvestcraft:pamspinachCrop, Spinach Crop
 harvestcraft:pamwhitemushroomCrop, White Mushroom Crop
@@ -7268,6 +7292,24 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluix Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar Slabs
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Floater
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.archimedes.balloon.lightBlue.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lime Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gray Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyan Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Purple Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Brown Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Air Balloon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Shore Buffer
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Mud
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Quicksand
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dried Dirt
@@ -15634,6 +15676,25 @@ ThermalDynamics:cover:0, Daisy Cover
 ThermalDynamics:cover:0, Cactus Cover
 ThermalDynamics:cover:0, Red Mushroom Cover
 ThermalDynamics:cover:0, Brown Mushroom Cover
+ThermalDynamics:cover:0, Floater Cover
+ThermalDynamics:cover:0, Air Balloon Cover
+ThermalDynamics:cover:0, Orange Air Balloon Cover
+ThermalDynamics:cover:0, Magenta Air Balloon Cover
+ThermalDynamics:cover:0, tile.archimedes.balloon.lightBlue.name Cover
+ThermalDynamics:cover:0, Yellow Air Balloon Cover
+ThermalDynamics:cover:0, Lime Air Balloon Cover
+ThermalDynamics:cover:0, Pink Air Balloon Cover
+ThermalDynamics:cover:0, Gray Air Balloon Cover
+ThermalDynamics:cover:0, Silver Air Balloon Cover
+ThermalDynamics:cover:0, Cyan Air Balloon Cover
+ThermalDynamics:cover:0, Purple Air Balloon Cover
+ThermalDynamics:cover:0, Blue Air Balloon Cover
+ThermalDynamics:cover:0, Brown Air Balloon Cover
+ThermalDynamics:cover:0, Green Air Balloon Cover
+ThermalDynamics:cover:0, Red Air Balloon Cover
+ThermalDynamics:cover:0, Black Air Balloon Cover
+ThermalDynamics:cover:0, Passenger Seat Cover
+ThermalDynamics:cover:0, Shore Buffer Cover
 ThermalDynamics:cover:0, Mud Cover
 ThermalDynamics:cover:0, Quicksand Cover
 ThermalDynamics:cover:0, Dried Dirt Cover
@@ -18317,22 +18378,22 @@ ThermalDynamics:cover:0, Dark Ethereal Glass Cover
 ThermalDynamics:cover:0, Ethereal Glass (Inverted) Cover
 ThermalDynamics:cover:0, Ineffable Glass (Inverted) Cover
 ThermalDynamics:cover:0, Dark Ethereal Glass (Inverted) Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousLight.name Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousLight.name Cover
 ThermalDynamics:cover:0, Ignis Imbued Fire Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
 ThermalDynamics:cover:0, Nether Star Block Cover
