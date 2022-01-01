@@ -167,3 +167,187 @@
 [11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
 [11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
 [11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:28:49] [Server thread/INFO]: [TristanPoland: Given [Monster Spawner] * 64 to TristanPoland]
+[11:28:49] [Client thread/INFO]: [CHAT] Given [Monster Spawner] * 64 to TristanPoland
+[11:28:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:28:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:29:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:33] [Server thread/INFO]: [TristanPoland: Given [Infernal Furnace] * ∞ to TristanPoland]
+[11:30:33] [Client thread/INFO]: [CHAT] Given [Infernal Furnace] * ∞ to TristanPoland
+[11:30:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:30:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:31:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:31:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:31:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:31:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:31:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:31:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:31:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:31:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:31:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:31:46] [Server thread/INFO]: Saving and pausing game...
+[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:31:47] [Server thread/INFO]: Stopping server
+[11:31:47] [Server thread/INFO]: Saving players
+[11:31:47] [Server thread/INFO]: Saving worlds
+[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:31:56] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:31:56] [Server thread/INFO]: Generating keypair
+[11:31:57] [Server thread/INFO]: Preparing start region for level 0
+[11:31:58] [Server thread/INFO]: Changing view distance to 8, from 10
+[11:31:59] [Server thread/INFO]: TristanPoland[local:E:2ef033dd] logged in with entity id 57304 at (38.72138131816499, 64.0, 945.1396291337861)
+[11:31:59] [Server thread/INFO]: TristanPoland joined the game
+[11:32:00] [Client thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
+[11:32:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:32:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:32:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:32:09] [Server thread/INFO]: Saving and pausing game...
+[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:32:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:32:14] [Server thread/INFO]: Saving and pausing game...
+[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:32:29] [Server thread/INFO]: Saving and pausing game...
+[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:32:30] [Server thread/INFO]: Saving and pausing game...
+[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:33:00] [Server thread/INFO]: Saving and pausing game...
+[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:33:05] [Server thread/INFO]: Saving and pausing game...
+[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:33:06] [Server thread/INFO]: Saving and pausing game...
+[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:33:09] [Server thread/INFO]: Saving and pausing game...
+[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[11:33:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:33:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:33:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:33:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:33:38] [Server thread/INFO]: Saving and pausing game...
+[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld

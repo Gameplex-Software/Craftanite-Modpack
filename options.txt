@@ -99,7 +99,7 @@ key_key.binder:40
 key_Tool Increase:201
 key_Tool Decrease:209
 key_key.openCompendium:25
-key_key.open_menu:19
+key_key.open_menu:51
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
@@ -147,7 +147,7 @@ key_Cycle Tool Backward (MPS):-1
 key_Cycle Tool Forward (MPS):-1
 key_Zoom (MPS):21
 key_Cosmetic (MPS):-1
-key_key.openRadial:37
+key_key.openRadial:51
 key_pe.key.armor_toggle:33
 key_pe.key.charge:47
 key_pe.key.extra_function:46
