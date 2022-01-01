@@ -4408,7 +4408,7 @@ EnderTech:healthPad:1, Redstone Health Pad
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quite Expensive Decoration)
+ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -4777,38 +4777,38 @@ ExtraUtilities:etherealglass:2, Dark Ethereal Glass
 ExtraUtilities:etherealglass:3, Ethereal Glass (Inverted)
 ExtraUtilities:etherealglass:4, Ineffable Glass (Inverted)
 ExtraUtilities:etherealglass:5, Dark Ethereal Glass (Inverted)
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:funnel, Essentia Funnel
 ThaumicTinkerer:animationTablet, Dynamism Tablet
 ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:repairer, Thaumic Restorer
 ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:warpGate, Celestial Gateway
 ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
 ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:fireAir, Aer Imbued Fire
 ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -18378,21 +18378,21 @@ ThermalDynamics:cover:0, Dark Ethereal Glass Cover
 ThermalDynamics:cover:0, Ethereal Glass (Inverted) Cover
 ThermalDynamics:cover:0, Ineffable Glass (Inverted) Cover
 ThermalDynamics:cover:0, Dark Ethereal Glass (Inverted) Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
 ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
 ThermalDynamics:cover:0, Perditio Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousLight.name Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
+ThermalDynamics:cover:0, tile.gaseousLight.name Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
 ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
 ThermalDynamics:cover:0, Ignis Imbued Fire Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
