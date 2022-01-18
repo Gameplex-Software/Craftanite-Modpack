@@ -1,367 +1,115 @@
-[11:19:06] [main/INFO]: Setting user: TristanPoland
-[11:19:08] [Client thread/INFO]: LWJGL Version: 2.9.1
-[11:19:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Archimedes' Ships, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Bookshelf, FMLFileResourcePack:Botania, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft Compat, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Facades, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Compact Machines, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CosmeticArmorReworked, FMLFileResourcePack:Default Keyconfig, FMLFileResourcePack:Default World Generator, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Surroundings, FMLFileResourcePack:Easy Crafting, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:Enchantment ID Extender, FMLFileResourcePack:Enchiridion, FMLFileResourcePack:Enchiridion 2, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnderTech, FMLFileResourcePack:EXCore, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Farseek, FMLFileResourcePack:Flood Lights, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Fossils and Archeology Revival, FMLFileResourcePack:FoxLib, FMLFileResourcePack:�aGliby's�f Voice Chat Mod, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Hats, FMLFileResourcePack:HatStand, FMLFileResourcePack:HelpFixer, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:It's the little things, FMLFileResourcePack:LLibrary, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:Minechem, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineMenu, FMLFileResourcePack:MineTweakerRecipeMaker, FMLFileResourcePack:Modular Forcefield System, FMLFileResourcePack:MachineMuse's Modular Powersuits, FMLFileResourcePack:Morph, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Numina, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Origin, FMLFileResourcePack:OriginAddonScrewdriver, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:planetguyLib, FMLFileResourcePack:PneumaticCraft, FMLFileResourcePack:Practicalities, FMLFileResourcePack:Pressure Pipes, FMLFileResourcePack:ProjectE, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:Random Things, FMLFileResourcePack:ReAuth, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Refined Relocation, FMLFileResourcePack:Remain In Motion, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Schematica, FMLFileResourcePack:Stackie, FMLFileResourcePack:Streams, FMLFileResourcePack:Tails, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Equivalence, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:Waystones, FMLFileResourcePack:Balkon's WeaponMod, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Xaero's World Map, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:RelocationFMP, FMLFileResourcePack:MrTJPCore
-[11:19:33] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:19:33] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:19:33] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:19:33] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:19:33] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:19:33] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:19:33] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
-[11:19:33] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
-[11:19:33] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
-[11:20:04] [Sound Library Loader/INFO]: Sound engine started
-[11:20:06] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[11:20:06] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[11:21:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Archimedes' Ships, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Bookshelf, FMLFileResourcePack:Botania, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft Compat, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Facades, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Compact Machines, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CosmeticArmorReworked, FMLFileResourcePack:Default Keyconfig, FMLFileResourcePack:Default World Generator, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Surroundings, FMLFileResourcePack:Easy Crafting, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:Enchantment ID Extender, FMLFileResourcePack:Enchiridion, FMLFileResourcePack:Enchiridion 2, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnderTech, FMLFileResourcePack:EXCore, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Farseek, FMLFileResourcePack:Flood Lights, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Fossils and Archeology Revival, FMLFileResourcePack:FoxLib, FMLFileResourcePack:�aGliby's�f Voice Chat Mod, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Hats, FMLFileResourcePack:HatStand, FMLFileResourcePack:HelpFixer, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:It's the little things, FMLFileResourcePack:LLibrary, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:Minechem, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineMenu, FMLFileResourcePack:MineTweakerRecipeMaker, FMLFileResourcePack:Modular Forcefield System, FMLFileResourcePack:MachineMuse's Modular Powersuits, FMLFileResourcePack:Morph, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Numina, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Origin, FMLFileResourcePack:OriginAddonScrewdriver, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:planetguyLib, FMLFileResourcePack:PneumaticCraft, FMLFileResourcePack:Practicalities, FMLFileResourcePack:Pressure Pipes, FMLFileResourcePack:ProjectE, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:Random Things, FMLFileResourcePack:ReAuth, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Refined Relocation, FMLFileResourcePack:Remain In Motion, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Schematica, FMLFileResourcePack:Stackie, FMLFileResourcePack:Streams, FMLFileResourcePack:Tails, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Equivalence, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:Waystones, FMLFileResourcePack:Balkon's WeaponMod, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Xaero's World Map, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:RelocationFMP, FMLFileResourcePack:MrTJPCore, CustomResources, FMLFileResourcePack:Carpenter's Blocks Cached Resources, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack, CustomOverridingResources
-[11:21:08] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:21:08] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:21:08] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:21:08] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:21:08] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:21:08] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
-[11:21:08] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
-[11:21:08] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
-[11:21:08] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
-[11:21:13] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
-[11:21:18] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
-[11:21:19] [Sound Library Loader/INFO]: Sound engine started
-[11:21:30] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[11:21:30] [Server thread/INFO]: Generating keypair
-[11:21:31] [Server thread/INFO]: Preparing start region for level 0
-[11:21:32] [Server thread/INFO]: Preparing spawn area: 74%
-[11:21:34] [Server thread/INFO]: Changing view distance to 8, from 10
-[11:21:35] [Server thread/INFO]: TristanPoland[local:E:dadd5133] logged in with entity id 2972 at (39.31389477061215, 63.0, 944.6999999880791)
-[11:21:35] [Server thread/INFO]: TristanPoland joined the game
-[11:21:37] [Client thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
-[11:21:45] [Client thread/INFO]: [CHAT] codechickencore.update
-[11:21:47] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
-[11:21:47] [Client thread/INFO]: [CHAT] §f-§e-§f-§e-§f-§e-§f-§e-§f-§e-§f-§e-§f-§1[Mekanism]§f-§e-§f-§e-§f-§e-§f-§e-§f-§e-§f-§e-§f-
-[11:21:47] [Client thread/INFO]: [CHAT] §bHappy New Year, §1TristanPoland§c!
-[11:21:47] [Client thread/INFO]: [CHAT] §bBest wishes to you as we enter this
-[11:21:47] [Client thread/INFO]: [CHAT] §bnew and exciting year of 2022! :)
-[11:21:47] [Client thread/INFO]: [CHAT] §8-aidancbrady
-[11:21:47] [Client thread/INFO]: [CHAT] §f-§e-§f-§e-§f-§e-§f-§e-§f-§e-§f-§e-§f-§1[=======]§f-§e-§f-§e-§f-§e-§f-§e-§f-§e-§f-§e-§f-
-[11:21:47] [Client thread/INFO]: [CHAT] §6The mod PneumaticCraft is supporting In-Game Wiki mod. §6However, In-Game Wiki isn't installed! [Download Latest]
-[11:21:47] [Client thread/INFO]: [CHAT] §6The mod Compact Machines is supporting In-Game Wiki mod. §6However, In-Game Wiki isn't installed! [Download Latest]
-[11:21:47] [Client thread/INFO]: [CHAT] §6The mod Flood Lights is supporting In-Game Wiki mod. §6However, In-Game Wiki isn't installed! [Download Latest]
-[11:22:39] [Server thread/INFO]: [TristanPoland: Given [§fManyullyn Crossbow] * 1 to TristanPoland]
-[11:22:39] [Client thread/INFO]: [CHAT] Given [§fManyullyn Crossbow] * 1 to TristanPoland
-[11:22:54] [Server thread/INFO]: [TristanPoland: Given [item.InfiTool.name] * ∞ to TristanPoland]
-[11:22:54] [Client thread/INFO]: [CHAT] Given [item.InfiTool.name] * ∞ to TristanPoland
-[11:22:56] [Server thread/INFO]: [TristanPoland: Given [item.InfiTool.name] * ∞ to TristanPoland]
-[11:22:56] [Client thread/INFO]: [CHAT] Given [item.InfiTool.name] * ∞ to TristanPoland
-[11:22:56] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:56] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:57] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:57] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:57] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:57] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:57] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:57] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:57] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:58] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:58] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:58] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:58] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:58] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:58] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:58] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:58] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:58] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:58] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:58] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:59] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:59] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:59] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:59] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:22:59] [Server thread/INFO]: [TristanPoland: Given [§fIron Bolts] * 1 to TristanPoland]
-[11:22:59] [Client thread/INFO]: [CHAT] Given [§fIron Bolts] * 1 to TristanPoland
-[11:23:21] [Server thread/INFO]: Saving and pausing game...
-[11:23:21] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:23:21] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:23:21] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:23:21] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:23:21] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:23:21] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:23:21] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:23:21] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:23:21] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:23:21] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:23:22] [Server thread/INFO]: Saving and pausing game...
-[11:23:22] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:23:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:23:23] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:23:23] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:23:23] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:23:23] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:23:23] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:23:23] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:23:23] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:23:23] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:23:28] [Server thread/INFO]: Saving and pausing game...
-[11:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:26:14] [Server thread/INFO]: Saving and pausing game...
-[11:26:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:26:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:26:14] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:26:14] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:26:14] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:26:14] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:26:14] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:26:14] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:26:14] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:26:14] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:26:54] [Server thread/INFO]: [TristanPoland: Set the time to 1000]
-[11:26:54] [Client thread/INFO]: [CHAT] Set the time to 1000
-[11:26:59] [Server thread/INFO]: Saving and pausing game...
-[11:26:59] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:26:59] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:26:59] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:26:59] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:26:59] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:26:59] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:26:59] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:26:59] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:26:59] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:26:59] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:27:00] [Server thread/INFO]: Saving and pausing game...
-[11:27:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:27:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:27:00] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:27:00] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:27:00] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:27:00] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:27:00] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:27:00] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:27:00] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:27:00] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:27:56] [Server thread/INFO]: Saving and pausing game...
-[11:27:56] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:27:56] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:27:56] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:27:56] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:27:56] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:27:56] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:27:56] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:27:56] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:27:56] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:27:56] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:28:12] [Server thread/INFO]: Saving and pausing game...
-[11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:28:12] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:28:49] [Server thread/INFO]: [TristanPoland: Given [Monster Spawner] * 64 to TristanPoland]
-[11:28:49] [Client thread/INFO]: [CHAT] Given [Monster Spawner] * 64 to TristanPoland
-[11:28:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:28:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:29:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:33] [Server thread/INFO]: [TristanPoland: Given [Infernal Furnace] * ∞ to TristanPoland]
-[11:30:33] [Client thread/INFO]: [CHAT] Given [Infernal Furnace] * ∞ to TristanPoland
-[11:30:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:30:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:31:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:31:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:31:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:31:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:31:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:31:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:31:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:31:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:31:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:31:46] [Server thread/INFO]: Saving and pausing game...
-[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:31:46] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:31:47] [Server thread/INFO]: Stopping server
-[11:31:47] [Server thread/INFO]: Saving players
-[11:31:47] [Server thread/INFO]: Saving worlds
-[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:31:47] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:31:56] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[11:31:56] [Server thread/INFO]: Generating keypair
-[11:31:57] [Server thread/INFO]: Preparing start region for level 0
-[11:31:58] [Server thread/INFO]: Changing view distance to 8, from 10
-[11:31:59] [Server thread/INFO]: TristanPoland[local:E:2ef033dd] logged in with entity id 57304 at (38.72138131816499, 64.0, 945.1396291337861)
-[11:31:59] [Server thread/INFO]: TristanPoland joined the game
-[11:32:00] [Client thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
-[11:32:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:32:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:32:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:32:09] [Server thread/INFO]: Saving and pausing game...
-[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:32:09] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:32:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:32:14] [Server thread/INFO]: Saving and pausing game...
-[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:32:14] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:32:29] [Server thread/INFO]: Saving and pausing game...
-[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:32:29] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:32:30] [Server thread/INFO]: Saving and pausing game...
-[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:32:30] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:32:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:33:00] [Server thread/INFO]: Saving and pausing game...
-[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:33:00] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:33:05] [Server thread/INFO]: Saving and pausing game...
-[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:33:05] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:33:06] [Server thread/INFO]: Saving and pausing game...
-[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:33:09] [Server thread/INFO]: Saving and pausing game...
-[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:33:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:33:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:33:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:33:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:33:38] [Server thread/INFO]: Saving and pausing game...
-[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:33:38] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:34:29] [Server thread/INFO]: Stopping server
-[11:34:29] [Server thread/INFO]: Saving players
-[11:34:29] [Server thread/INFO]: Saving worlds
-[11:34:29] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:34:29] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:34:29] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
-[11:34:29] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
-[11:34:29] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
-[11:34:29] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
-[11:34:29] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
-[11:34:29] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
-[11:34:29] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
-[11:34:29] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
-[11:36:43] [Client thread/INFO]: Stopping!
+[15:05:25] [main/INFO]: Setting user: TristanPoland
+[15:05:29] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:06:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Archimedes' Ships, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Bookshelf, FMLFileResourcePack:Botania, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft Compat, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Facades, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Compact Machines, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CosmeticArmorReworked, FMLFileResourcePack:Default Keyconfig, FMLFileResourcePack:Default World Generator, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Surroundings, FMLFileResourcePack:Easy Crafting, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:Enchantment ID Extender, FMLFileResourcePack:Enchiridion, FMLFileResourcePack:Enchiridion 2, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnderTech, FMLFileResourcePack:EXCore, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Farseek, FMLFileResourcePack:Flood Lights, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Fossils and Archeology Revival, FMLFileResourcePack:FoxLib, FMLFileResourcePack:�aGliby's�f Voice Chat Mod, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Hats, FMLFileResourcePack:HatStand, FMLFileResourcePack:HelpFixer, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:It's the little things, FMLFileResourcePack:LLibrary, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:Minechem, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineMenu, FMLFileResourcePack:MineTweakerRecipeMaker, FMLFileResourcePack:Modular Forcefield System, FMLFileResourcePack:MachineMuse's Modular Powersuits, FMLFileResourcePack:Morph, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Numina, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Origin, FMLFileResourcePack:OriginAddonScrewdriver, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:planetguyLib, FMLFileResourcePack:PneumaticCraft, FMLFileResourcePack:Practicalities, FMLFileResourcePack:Pressure Pipes, FMLFileResourcePack:ProjectE, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:Random Things, FMLFileResourcePack:ReAuth, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Refined Relocation, FMLFileResourcePack:Remain In Motion, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Schematica, FMLFileResourcePack:Stackie, FMLFileResourcePack:Streams, FMLFileResourcePack:Tails, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Equivalence, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:Waystones, FMLFileResourcePack:Balkon's WeaponMod, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Xaero's World Map, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:RelocationFMP, FMLFileResourcePack:MrTJPCore
+[15:06:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:06:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:06:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:06:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:06:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:06:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:06:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
+[15:06:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
+[15:06:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
+[15:06:35] [Sound Library Loader/INFO]: Sound engine started
+[15:06:37] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[15:06:37] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[15:07:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Archimedes' Ships, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Title Screen, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Bookshelf, FMLFileResourcePack:Botania, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft Compat, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Facades, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Compact Machines, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CosmeticArmorReworked, FMLFileResourcePack:Default Keyconfig, FMLFileResourcePack:Default World Generator, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Surroundings, FMLFileResourcePack:Easy Crafting, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:Enchantment ID Extender, FMLFileResourcePack:Enchiridion, FMLFileResourcePack:Enchiridion 2, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnderTech, FMLFileResourcePack:EXCore, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Farseek, FMLFileResourcePack:Flood Lights, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Fossils and Archeology Revival, FMLFileResourcePack:FoxLib, FMLFileResourcePack:�aGliby's�f Voice Chat Mod, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Hats, FMLFileResourcePack:HatStand, FMLFileResourcePack:HelpFixer, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:It's the little things, FMLFileResourcePack:LLibrary, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:Minechem, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineMenu, FMLFileResourcePack:MineTweakerRecipeMaker, FMLFileResourcePack:Modular Forcefield System, FMLFileResourcePack:MachineMuse's Modular Powersuits, FMLFileResourcePack:Morph, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Numina, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Origin, FMLFileResourcePack:OriginAddonScrewdriver, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:planetguyLib, FMLFileResourcePack:PneumaticCraft, FMLFileResourcePack:Practicalities, FMLFileResourcePack:Pressure Pipes, FMLFileResourcePack:ProjectE, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:Random Things, FMLFileResourcePack:ReAuth, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Refined Relocation, FMLFileResourcePack:Remain In Motion, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Roguelike Dungeons, FMLFileResourcePack:Schematica, FMLFileResourcePack:Stackie, FMLFileResourcePack:Streams, FMLFileResourcePack:Tails, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Equivalence, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:Waystones, FMLFileResourcePack:Balkon's WeaponMod, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Xaero's World Map, FMLFileResourcePack:Ye Gamol Chattels, FMLFileResourcePack:Ztones, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:RelocationFMP, FMLFileResourcePack:MrTJPCore, CustomResources, FMLFileResourcePack:Carpenter's Blocks Cached Resources, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack, CustomOverridingResources
+[15:07:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:07:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:07:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:07:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:07:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:07:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/BloodMagic-1.7.10-1.3.3-17.jar
+[15:07:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
+[15:07:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
+[15:07:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: planetguyLib in /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Mianite-refurbished/mods/PlanetguyLib-1.9.2.jar
+[15:07:54] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[15:08:01] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[15:08:02] [Sound Library Loader/INFO]: Sound engine started
+[15:08:21] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:08:21] [Server thread/INFO]: Generating keypair
+[15:08:22] [Server thread/INFO]: Preparing start region for level 0
+[15:08:23] [Server thread/INFO]: Preparing spawn area: 59%
+[15:08:27] [Server thread/INFO]: Changing view distance to 8, from 10
+[15:08:29] [Server thread/INFO]: TristanPoland[local:E:7961b6bb] logged in with entity id 2960 at (38.72138131816499, 64.0, 945.1396291337861)
+[15:08:29] [Server thread/INFO]: TristanPoland joined the game
+[15:08:31] [Client thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
+[15:08:43] [Server thread/INFO]: Saving and pausing game...
+[15:08:43] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:08:44] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[15:08:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:08:44] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[15:08:44] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[15:08:44] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[15:08:44] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[15:08:44] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[15:08:44] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[15:08:44] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[15:08:44] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[15:08:50] [Client thread/INFO]: [CHAT] codechickencore.update
+[15:08:51] [Client thread/INFO]: [CHAT] §6The mod PneumaticCraft is supporting In-Game Wiki mod. §6However, In-Game Wiki isn't installed! [Download Latest]
+[15:08:51] [Client thread/INFO]: [CHAT] §6The mod Compact Machines is supporting In-Game Wiki mod. §6However, In-Game Wiki isn't installed! [Download Latest]
+[15:08:51] [Client thread/INFO]: [CHAT] §6The mod Flood Lights is supporting In-Game Wiki mod. §6However, In-Game Wiki isn't installed! [Download Latest]
+[15:08:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:08:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:08:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:08:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:08:54] [Server thread/INFO]: Saving and pausing game...
+[15:08:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:08:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:08:54] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[15:08:54] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[15:08:54] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[15:08:54] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[15:08:54] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[15:08:54] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[15:08:54] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[15:08:54] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[15:09:01] [Server thread/INFO]: Saving and pausing game...
+[15:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[15:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[15:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[15:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[15:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[15:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[15:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[15:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[15:09:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:09:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[15:10:02] [Server thread/INFO]: Saving and pausing game...
+[15:10:02] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:10:02] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:10:02] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[15:10:02] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[15:10:02] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[15:10:02] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[15:10:02] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[15:10:02] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[15:10:02] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[15:10:02] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[15:10:03] [Server thread/INFO]: Stopping server
+[15:10:03] [Server thread/INFO]: Saving players
+[15:10:03] [Server thread/INFO]: Saving worlds
+[15:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[15:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/the Ancient Treasure Room
+[15:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[15:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[15:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[15:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/Land of Darkness
+[15:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/CompactMachinesWorld
+[15:10:03] [Server thread/INFO]: Saving chunks for level 'New World'/SpectreWorld
+[15:11:41] [Client thread/INFO]: Stopping!
